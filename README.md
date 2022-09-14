@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image.png)
+![Header](./assets/header-image.png)
 
 # Who i am?
 
