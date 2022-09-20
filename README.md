@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 About me
 
-Im 19 years old, i have graduated from shool with orientation at visual arts, and after that i did a full stack web developer bootcamp at Henry.
+Im 19 years old, i have graduated from school with orientation at visual arts, and after that i did a full stack web developer bootcamp at Henry.
 
 Im a very creative person and my favorite hobby is all type of design, my best strenghts are discipline and constancy.
 
